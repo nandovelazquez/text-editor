@@ -4,6 +4,8 @@ A lightweight, full-screen text editor written entirely in x86 assembly language
 
 I wrote this text editor back around 2008 during my university days. It wasn't anything fancy—just a project I cobbled together to test out of my microprocessors final exam.
 
+Since I don't have access anymore to a x86 proccessor, I used the AI to generate the screenshots.
+
 ---
 
 ## Screenshots
